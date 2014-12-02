@@ -1,0 +1,88 @@
+/*
+ *	Programmer	:	Choi Su Bum
+ *	File_Name	:	types.h
+ *	Make_File	:	2014/11/26
+ *	Last_Change	:	2014/11/26
+ *	Version		:	1.0.0
+ *
+ *	all copyright for Pabix
+ */
+
+
+/*
+ *	define_branch	:	predator
+ *
+ 	/*
+ 	 *	define_name	:	PREDATOR_LIFE_SPAN
+ 	 *	type		:	integer
+ 	 *	description	:	predator exist time
+ 	 *				(time is turn)
+ 	 */
+
+ 	/*
+ 	 *	define_name	:	PREDATOR_SIGHT
+ 	 *	type		:	integer
+ 	 *	description	:	radius of sight
+ 	 *				(predator's sight is circle)
+ 	 */
+ */
+
+/*
+ *	define_branch	:	direct
+ *
+ 	/*
+ 	 *	define_name	:	DIRECT_CNT
+ 	 *	type		:	integer
+ 	 *				(enum)
+ 	 *	description	:	direct_count
+ 	 */
+
+ 	/*
+ 	 *	define_name	:	DIRECT_UP
+ 	 *	type		:	integer
+ 	 *				(enum)
+ 	 */
+
+ 	/*
+ 	 *	define_name	:	DIRECT_DOWN
+ 	 *	type		:	integer
+ 	 *				(enum)
+ 	 */
+
+ 	/*
+ 	 *	define_name	:	DIRECT_LEFT
+ 	 *	type		:	integer
+ 	 *				(enum)
+ 	 */
+
+ 	/*
+ 	 *	define_name	:	DIRECT_RIGHT
+ 	 *	type		:	integer
+ 	 *				(enum)
+ 	 */
+ */
+
+/*
+ *	define_branch	:	code
+ *	description	:	type of data
+ *				(data in map)
+ *
+ 	/*
+ 	 *	define_name	:	CODE_BLANK
+ 	 *	type		:	integer
+ 	 *				(enum)
+ 	 *	description	:	blank space
+ 	 */
+
+ 	/*
+ 	 *	define_name	:	CODE_PREDATOR
+ 	 *	type		:	integer
+ 	 *				(enum)
+ 	 */
+
+ 	/*
+ 	 *	define_name	:	CODE_PREY
+ 	 *	type		:	integer
+ 	 *				(enum)
+ 	 */
+ */
